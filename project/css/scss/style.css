@@ -44,6 +44,9 @@ body {
 .wrap-site-main-page {
   margin: 0; }
 
+.mg-1 {
+  margin: 10px; }
+
 .site-header {
   background-color: white;
   margin: 0;
@@ -161,7 +164,7 @@ body {
   height: 40px; }
 
 .sub-menu {
-  max-width: 1600px;
+  max-width: 95%;
   margin: 0 auto; }
   .sub-menu .title {
     font-family: "Bebas Neue Regular";
@@ -198,7 +201,7 @@ body {
 
 .site-content {
   background-color: white;
-  max-width: 1600px;
+  max-width: 90%;
   height: 1600px;
   margin: 0 auto;
   border: none;
@@ -477,7 +480,6 @@ body {
   height: auto;
   max-width: 20rem;
   width: 100%;
-  margin: 10px;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
   .card:hover {
